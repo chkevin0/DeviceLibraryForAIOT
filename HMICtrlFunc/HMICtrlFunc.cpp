@@ -6,7 +6,7 @@
 
 	Vendor  : http://www.tjc1688.com/Product/xuanxingzhinan/
 	CMD Information : http://wiki.tjc1688.com/doku.php?id=start
-	Github	: 
+	Github	: https://github.com/chkevin0/DeviceLibraryForAIOT
 
 	Release	date : 2021-04-06
 	ChangeLog:
